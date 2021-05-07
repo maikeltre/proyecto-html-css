@@ -1,0 +1,6 @@
+# proyecto-html-css
+Practica de HTML y CSS
+
+Actualización_1
+
+En esta actualizacion se termino de diseñar la barra de navegación,se hizo responsiva ay se afecto sus tamaños
